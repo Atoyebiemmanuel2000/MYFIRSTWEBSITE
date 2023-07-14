@@ -44,8 +44,8 @@ $('.menu-btn i').toggleClass("active");
 
 // typing text animation script
 var typed = new Typed(".typing", {
-strings: ["Fresher","Web Developer","Graphics Designer", "Photo Editor"],
-typeSpeed: 100,
+strings: ["Web Dev.", "Designer"],
+typeSpeed: 130,
 backSpeed: 60,
 loop: true
 });
